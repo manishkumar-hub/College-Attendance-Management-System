@@ -34,9 +34,6 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/manishkumar-hub/The-craft-House"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/manishkumar-hub/The-craft-House/issues">Report Bug</a>
     ·
     <a href="https://github.com/manishkumar-hub/The-craft-House/issues">Request Feature</a>
