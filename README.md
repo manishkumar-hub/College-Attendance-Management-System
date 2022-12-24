@@ -100,12 +100,19 @@
 
 DEMO Screenshots 
 
-<img src="Screenshots/Screenshot (14).png" alt="im" >
-<br>
+[![Login.png](https://i.postimg.cc/hG1xTdmj/Login.png)](https://postimg.cc/KK4Ry4JS)
 
-<img src="Screenshots/Screenshot (15).png" alt="im" >
-<img src="Screenshots/Screenshot (16).png" alt="im" >
-<img src="Screenshots/Screenshot (17).png" alt="im" >
+[![Student-Dashboard.png](https://i.postimg.cc/T2pQmTd6/Student-Dashboard.png)](https://postimg.cc/vDwWwFxq)
+
+[![Student-Attendance-View.png](https://i.postimg.cc/7YS3M6jp/Student-Attendance-View.png)](https://postimg.cc/PPrvdtX4)
+
+[![Teacher-Dashboard.png](https://i.postimg.cc/Vk1j7w85/Teacher-Dashboard.png)](https://postimg.cc/YhnG9Jjw)
+
+[![Take-attendance.png](https://i.postimg.cc/0Ny7sCrs/Take-attendance.png)](https://postimg.cc/VJ2J9njG)
+
+[![admin-dashboard-2.png](https://i.postimg.cc/mZv3HMpY/admin-dashboard-2.png)](https://postimg.cc/Z0Lyk9Sn)
+
+[![Subjects-admin.png](https://i.postimg.cc/MpD1NL65/Subjects-admin.png)](https://postimg.cc/XrrZyQyB)
 
 
 <!-- GETTING STARTED -->
