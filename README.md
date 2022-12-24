@@ -29,9 +29,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/manishkumar-hub/College-Attendance-Management-System">
-    <img src="public/logo.png" alt="Logo" width="100" height="100">
-  </a>
 
 <h3 align="center">College Attendance Management System</h3>
 
